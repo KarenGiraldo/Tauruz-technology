@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        
+        <style></style>
+        <link href="https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100;0,900;1,900&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="Style.css">
+        <title>Tauruz Technology </title>
+        
+        
+        <div class="container" > <div class="bottonNow"> <button>Inicio de sesión</button>  <div><button>Registro</button> </div> </div></div>
+        
+    </head>
+    <body>
+        
+        <div><center><h2> Empresa NN</h2></center></div>
+        <center><h2> <br> Pagina Principal </h2></center>
+        <div align="center"><img src="imagenes/descarga.jpg" </div>
+        <p>
+            aaaaaaaaa
+        
+            </p>
+            <div><a href=""</a>  
+
+                
+            <a href="Informcion.html" </a>
+                 <Font color="0000FF" align="center" ><h4>Información </h4> </div>
+            <a href="Inmuebles.html" </a>
+                <Font color="0000FF" align="center" ><h4>Inmuebles</h4> </div>
+
+    </body>
+</html>
