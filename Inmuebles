@@ -1,0 +1,13 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        
+        <style></style>
+        <link href="https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100;0,900;1,900&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="Style.css">
+        <title>Inmuebles </title>
+    </head>
+    <body>
+       <div class="Titulo_Inm"> <h2>¡Encuentra el hogar de tus sueños en pocos pasos!</h2></div>
+    </body>
+</html>
