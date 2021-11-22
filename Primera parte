@@ -1,0 +1,127 @@
+
+body{
+    padding-left: 11em;
+
+  font-family: 'Raleway', "Times New Roman",Times, serif;
+color: rgb(0, 0, 0);
+background-color:bisque;
+
+}
+h2 {
+
+
+
+    font-family: 'Raleway', sans-serif;
+
+    font-weight: 50%;
+
+    font-size: 350%;
+
+    text-align: center;
+
+    background-image: url(Imagenes/tree-736885__340.jpg);
+
+    background-size: cover;
+
+    background-clip: text;
+
+    -webkit-background-clip: text;
+
+    color: transparent;
+
+}
+h3 {
+
+
+
+    font-family: 'Raleway', sans-serif;
+
+    font-weight: 50%;
+
+    font-size: 150%;
+
+    text-align: center;
+
+    background-image: url(Imagenes/tree-736885__340.jpg);
+
+    background-size: cover;
+
+    background-clip: text;
+
+    -webkit-background-clip: text;
+
+    color: transparent;
+
+}
+.bottonNow{
+    float: right;
+    text-decoration: inicio;
+    padding: 6.5px;
+    font-weight: 400;
+    font-size: 10px;
+    color: #ffffff;
+    background-color: #1883ba;
+    border-radius: 6px;
+    border: 2px solid #0016b0;
+    }
+.container{
+    float: right;
+    text-decoration: inicio;
+    padding: 6.5px;
+    font-weight: 400;
+    font-size: 10px;
+    color: #ffffff;
+    background-color: #ba1818;
+    border-radius: 6px;
+    border: 2px solid #000000;
+}
+.ul{
+    background-color:rgb(255, 5, 5);
+
+        list-style-type: circle;
+
+        color: black;
+}
+.Titulo_Inm{
+    font-family: 'Raleway', sans-serif;
+
+    font-weight: 50%;
+
+    font-size: 95%;
+
+    text-align: center;
+
+    background-image: url(Imagenes/tree-736885__340.jpg);
+
+    background-size: cover;
+
+    background-clip: text;
+
+    -webkit-background-clip: text;
+
+    color: transparent;
+}
+.Titulo_Info{
+    font-family: 'Raleway', sans-serif;
+
+    font-weight: 50%;
+
+    font-size: 95%;
+
+    text-align: center;
+
+    background-image: url(Imagenes/tree-736885__340.jpg);
+
+    background-size: cover;
+
+    background-clip: text;
+
+    -webkit-background-clip: text;
+
+    color: transparent;
+}
+.Inicio{
+   
+    size: 50%;
+
+}
