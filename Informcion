@@ -1,0 +1,17 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        
+        <style></style>
+        <link href="https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100;0,900;1,900&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="Style.css">
+        <title>Información </title>
+
+    </head>
+    <body>
+        <div class="Titulo_Info"><h2>Acerca de nosotros :)</h2> </div>
+        <div><h4>Descripción de la Empresa</h4></div> 
+        <img src="descarga.jpg" >
+        <hr width="75%" >
+    </body>
+</html>
